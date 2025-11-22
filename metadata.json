@@ -1,0 +1,5 @@
+{
+  "name": "RR_Prototype_Storage",
+  "description": "A minigame where the player must fit several Tetris-inspired pieces into a storage area of a specific shape. The player can pick, drag, rotate, and place the pieces into the 12x12 grid.",
+  "requestFramePermissions": []
+}
